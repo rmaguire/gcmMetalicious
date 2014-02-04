@@ -96,7 +96,9 @@ if (substr($_SERVER['PHP_SELF'], 0, 7) == '/admin/') {
                     <span class="icon-bar"></span>
                 </a>
                 <a class="brand" href="index.php">
-                    <img src="images/metalicious_banner.png" />
+<!--                    <img src="images/metalicious_banner.png" /> -->
+                                        <B>GROSVENOR META DATA</B>
+                    
                 </a>		
                 <div class="nav-collapse">
                     <?php
